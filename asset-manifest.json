@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactcaviplay/static/css/main.a3c52e8b.css",
+    "main.js": "/reactcaviplay/static/js/main.663e2570.js",
+    "static/js/453.105de054.chunk.js": "/reactcaviplay/static/js/453.105de054.chunk.js",
+    "static/media/shuffle.svg": "/reactcaviplay/static/media/shuffle.0504492b179f3d5229b8cb555506cadd.svg",
+    "static/media/shuffle2.svg": "/reactcaviplay/static/media/shuffle2.ebc315efe37b21d308102d7f4c0b4428.svg",
+    "static/media/add music.svg": "/reactcaviplay/static/media/add music.06276ca2e730abdd02e1083fd2563549.svg",
+    "index.html": "/reactcaviplay/index.html",
+    "static/media/volume-up.svg": "/reactcaviplay/static/media/volume-up.5d140df61f5ffbc33f66618321e9634b.svg",
+    "static/media/next.svg": "/reactcaviplay/static/media/next.db084dfb092c60710d720d96f97a7040.svg",
+    "static/media/previous.svg": "/reactcaviplay/static/media/previous.4047a5f6f1433d2ce34e55acdd911121.svg",
+    "static/media/pause.svg": "/reactcaviplay/static/media/pause.339d2fbe44564afabee1c781842cfc98.svg",
+    "static/media/play.svg": "/reactcaviplay/static/media/play.6bc3f0e7913fa1c9f165589d26c0f04a.svg",
+    "static/media/volume-down.svg": "/reactcaviplay/static/media/volume-down.ead3f18fdc3bd6e48fb6581ec45de231.svg",
+    "main.a3c52e8b.css.map": "/reactcaviplay/static/css/main.a3c52e8b.css.map",
+    "main.663e2570.js.map": "/reactcaviplay/static/js/main.663e2570.js.map",
+    "453.105de054.chunk.js.map": "/reactcaviplay/static/js/453.105de054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c52e8b.css",
+    "static/js/main.663e2570.js"
+  ]
+}
